@@ -1,13 +1,13 @@
-# Hi there, I'm Monirujjman 👋  
-### 🚀 Full Stack Web Developer | Problem Solver | Tech Enthusiast  
+# Hi there, I'm Monirujjman 
+### Full Stack Web Developer | Problem Solver | Tech Enthusiast  
 
 I'm passionate about building scalable, efficient, and user-friendly web applications. With expertise in modern web technologies, I enjoy solving complex challenges, exploring new frameworks, and creating innovative digital solutions.  
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 - Deep diving into **React.js**  
 - Exploring **Next.js** for building server-side rendered applications  
 
-## 🔗 Portfolio & Contact  
+##  Portfolio & Contact  
 - 🌐 **Portfolio:** [monir.tech](https://monir.tech)  
 - 📧 **Email:** [info@monir.tech](mailto:info@monir.tech)  
 - 💼 **LinkedIn:** [linkedin.com/in/monirujjman](https://linkedin.com/in/monirujjman)  
